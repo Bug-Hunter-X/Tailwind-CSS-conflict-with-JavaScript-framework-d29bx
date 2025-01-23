@@ -1,0 +1,3 @@
+# Tailwind CSS Conflict with JavaScript Framework
+
+This repository demonstrates a bug encountered when using Tailwind CSS with a specific JavaScript framework.  The issue manifests as unexpected styling or behavior, potentially due to class name collisions or conflicts between the frameworks' CSS handling mechanisms. The bug is detailed in `bug.js`, and a potential solution is provided in `bugSolution.js`.
